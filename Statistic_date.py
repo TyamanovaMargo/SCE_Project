@@ -2,10 +2,9 @@ import os
 import pandas as pd
 
 # Set the directory path
-directory_path = '/Users/margotiamanova/Desktop/identification/BOOK/Action'
-
+directory_path = '/Users/margotiamanova/Desktop/identification/allChunksSeparate_without_punctuation/Adventure'
 # Set the file name for the output XLSX file
-output_file_name = 'output.xlsx'
+output_file_name = 'output_chunk_adventure_without_punct.xlsx'
 
 # Initialize an empty list to store data
 data = []

@@ -3,7 +3,7 @@ import os
 import shutil
 import charset_normalizer
 
-genre = "classic"
+genre = "all_books_with_punctuation"
 
 # Base folder path (change this to your actual base folder)
 BASE_FOLDER = "/Users/margotiamanova/Desktop/identification/BOOK"
